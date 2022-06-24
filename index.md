@@ -25,6 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 
 # Starter Project
-My Starter Project was the Useless Machine. It is a machine
+My Starter Project was the Useless Machine. When the switch is hit the arm will come up and hit it back then rotate down again. The board consists of two switches, an LED, two resistors, and a terminal that connects to the wires of the motor and battery pack. The motor is under the board and has the arm attatched to it. The battery pack has 3 AA batteries. All three parts fit inside the plastic box where only the switch pokes out and the door opens and closes.
 
 [![Starter Project](https://img.youtube.com/vi/2e7--Mj_rL8/sddefault.jpg)](https://www.youtube.com/watch?v=2e7--Mj_rL8)
