@@ -1,6 +1,5 @@
 ﻿# Face Recognition Door Lock
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+The Face Recognition Door Lock uses the faces of saved people to open a door lock. It can also greet guests, tell you who is at the door, save multiple guests and more.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anika Karvat | Saratoga High School | Electrical Engineering | Incoming Sophomore
