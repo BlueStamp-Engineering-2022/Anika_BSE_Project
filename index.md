@@ -1,4 +1,4 @@
-﻿# Face Recognition Door Lock
+# Face Recognition Door Lock
 The Face Recognition Door Lock uses the faces of saved people to open a door lock. It can also greet guests, tell you who is at the door, save multiple guests and more.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
