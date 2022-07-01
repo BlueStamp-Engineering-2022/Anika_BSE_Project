@@ -20,10 +20,13 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
+[![First Milestone](https://img.youtube.com/vi/C8MUmDBtJec/sddefault.jpg)](https://www.youtube.com/watch?v=C8MUmDBtJec "First Milestone")
 
 
 # Starter Project
 My Starter Project was the Useless Machine. When the switch is hit the arm will come up and hit it back then rotate down again. The board consists of two switches, an LED, two resistors, and a terminal that connects to the wires of the motor and battery pack. The motor is under the board and has the arm attatched to it. The battery pack has 3 AA batteries. All three parts fit inside the plastic box where only the switch pokes out and the door opens and closes.
 
 [![Starter Project](https://img.youtube.com/vi/2e7--Mj_rL8/sddefault.jpg)](https://www.youtube.com/watch?v=2e7--Mj_rL8)
+
+# Circuit Diagrams
+![arduino circuit](https://user-images.githubusercontent.com/107944844/176942366-9e5cb216-ffaf-4a28-8fcd-653d68950203.jpg)
