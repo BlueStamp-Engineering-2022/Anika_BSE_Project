@@ -1,8 +1,9 @@
 # Face Recognition Door Lock
 The Face Recognition Door Lock uses the faces of saved people to open a door lock. It can also greet guests, tell you who is at the door, save multiple guests and more.
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anika Karvat | Saratoga High School | Electrical Engineering | Incoming Sophomore |
+| Anika Karvat | Saratoga High School | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUdOuU9Q6jJW24ISIrUQ86stBQrCDxvoC6gCmYYJBYLRuTZ0KuYGIkEr4aPZzd6wEQgvUS3nlK2IZbWJMW13zeNAtBtXtwrCLN6D4wDYT2vPBLwp_yU01ss2ku1Mu6appCKLMp1psU20Tl-z7ugj-Xs=s1290-no?authuser=0)
   
