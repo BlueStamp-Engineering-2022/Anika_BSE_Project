@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
 # Second Milestone
-My second milestone is finishing the base of the lock. Now it is a fully functional lock with just the basics. I connection the Arduino with the Rasperry Pi with serial connection and downloaded IDE on the Rasperry Pi. I also finished all my code for the function. It now sends an email with a picture when an unrecognized guest is at the door. When the lock opens it opens for five seconds then locks again. Using my guest search function, it can identify who is at the door by pulling the RekognitionID from my AWS bucket.
+My second milestone is fully finishing the lock. Now it is a fully functional lock with a few add-ons. I connected the Arduino and the Rasperry Pi with serial connection and downloaded IDE on the Rasperry Pi. I also finished writing all my code, it now sends an email with a picture when an unrecognized guest is at the door. When the lock opens it opens for five seconds then locks again. Using my guest search function, it can identify who is at the door by pulling the RekognitionID from my AWS bucket. I also connected a red and green LED, when the door is opened by a recognized guest the green light will flash, when a guest is locked out it will flash red then send me an email.
 
 [![Second Milestone](https://img.youtube.com/vi/f14yofIJps4/hqdefault.jpg)](https://www.youtube.com/watch?v=f14yofIJps4 "Second Milestone")
 # First Milestone
