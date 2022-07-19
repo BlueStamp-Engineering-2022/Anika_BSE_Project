@@ -29,5 +29,6 @@ My Starter Project was the Useless Machine. When the switch is hit the arm will 
 
 [![Starter Project](https://img.youtube.com/vi/2e7--Mj_rL8/sddefault.jpg)](https://www.youtube.com/watch?v=2e7--Mj_rL8)
 
-# Circuit Diagrams
+#  Diagrams
 ![arduino circuit](https://user-images.githubusercontent.com/107944844/176942366-9e5cb216-ffaf-4a28-8fcd-653d68950203.jpg)
+![schematics](https://hackster.imgix.net/uploads/attachments/437788/block1_ioWGCtJDGN.jpg)
