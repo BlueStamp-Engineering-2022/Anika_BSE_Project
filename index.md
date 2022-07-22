@@ -8,7 +8,7 @@ The Face Recognition Door Lock uses the faces of saved images stored in AWS to o
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUdOuU9Q6jJW24ISIrUQ86stBQrCDxvoC6gCmYYJBYLRuTZ0KuYGIkEr4aPZzd6wEQgvUS3nlK2IZbWJMW13zeNAtBtXtwrCLN6D4wDYT2vPBLwp_yU01ss2ku1Mu6appCKLMp1psU20Tl-z7ugj-Xs=s1290-no?authuser=0)
   
 # Final Milestone
-My final milestone was adding modifications. I added LED lights, one green and one red. The green light flashes for a second when a person is allowed in. When a person is not allowed in/ a new guest it will flash red for a second. Another modification I added was with the email function. I changed it so when a specific person is at the door it will also send an email. Before, it only sent an email when the person was unknown, now it sends when they are unknown and when a person you want to id at your door. I also attatched all components onto a piece of acrylic so it can easily be moved. 
+My final milestone was adding modifications. I added LED lights, one green and one red. The green light flashes for a second when a person is allowed in. When a person is not allowed in/a new guest is at the door, it will flash red for a second. Another modification I added was with the email function. I changed it so when a specific person is at the door, it will also send an email. Before, it only sent an email when the person was unknown, now it sends when they are unknown and when a person you want to id at your door. I also attatched all components onto a piece of acrylic so it can easily be moved. 
 
 [![Final Milestone](https://img.youtube.com/vi/LYExreLvghs/hqdefault.jpg )](https://www.youtube.com/watch?v=LYExreLvghs "Final Milestone")
 
@@ -19,7 +19,7 @@ My second milestone is fully finishing the lock. Now it is a fully functional lo
 # First Milestone
   
 
-My first milestone is setting up the hardware. This consists of the Raspberry Pi, Arduino, and the lock that contains the servo. I uploaded code to the arduino connected it to the servo and got it to open and close. Some places I struggled in was setting up my Rasperry Pi with AWS. Configuring the image bucket and the guest collection table was tricky. It took a while to set up all the different locations. Building the 3-d printed lock went smoothly and connecting that to the arduino was also easily accomplished.   
+My first milestone is setting up the hardware. This consists of the Raspberry Pi, Arduino, and the lock that contains the servo. I uploaded code to the Arduino connected it to the servo and got it to open and close. Some places I struggled in was setting up my Rasperry Pi with AWS. Configuring the image bucket and the guest collection table was tricky. It took a while to set up all the different locations. Building the 3-d printed lock went smoothly and connecting that to the arduino was also easily accomplished.   
 
 [![First Milestone](https://img.youtube.com/vi/C8MUmDBtJec/sddefault.jpg)](https://www.youtube.com/watch?v=C8MUmDBtJec "First Milestone")
 
