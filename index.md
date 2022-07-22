@@ -3,7 +3,7 @@ The Face Recognition Door Lock uses the faces of saved images stored in AWS to o
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anika Karvat | Saratoga High School | Mechanical Engineering | Incoming Sophomore
+| Anika | Saratoga High School | Mechanical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUdOuU9Q6jJW24ISIrUQ86stBQrCDxvoC6gCmYYJBYLRuTZ0KuYGIkEr4aPZzd6wEQgvUS3nlK2IZbWJMW13zeNAtBtXtwrCLN6D4wDYT2vPBLwp_yU01ss2ku1Mu6appCKLMp1psU20Tl-z7ugj-Xs=s1290-no?authuser=0)
   
